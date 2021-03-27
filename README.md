@@ -30,9 +30,9 @@ These are the classifications used to calculate the BMI
 NOTE: These classifications were given by the teacher and have no commitment to the truth 
 
 ## Ciclomatic Complexity Graph
-[Code](https://raw.githubusercontent.com/predodamiao/Java-Unit-Testing/main/assets/code.png)
+![Code](https://raw.githubusercontent.com/predodamiao/Java-Unit-Testing/main/assets/code.png)
 
-[Graph](https://raw.githubusercontent.com/predodamiao/Java-Unit-Testing/main/assets/graph.png)
+![Graph](https://raw.githubusercontent.com/predodamiao/Java-Unit-Testing/main/assets/graph.png)
 
 ## Test Cases
 
